@@ -2,13 +2,22 @@
 DSA
 
 Index:
-Arrays and strings
-Hashmaps and sets
-Linked lists
-Stacks and queues
-Trees and graphs
-Heaps
-Greedy algorithms
-Binary search
-Backtracking
-Dynamic programming
+1. Arrays and strings
+2. Hashmaps and sets
+3. Linked lists
+4. Stacks and queues
+5. Trees and graphs
+6. Heaps
+7. Greedy algorithms
+8. Binary search
+9. Backtracking
+10. Dynamic programming
+
+
+
+
+
+
+
+
+
